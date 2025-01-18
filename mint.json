@@ -7,7 +7,7 @@
   },
   "favicon": "/assets/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#427ef5",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
@@ -27,8 +27,12 @@
   },
   "tabs": [
     {
+      "name": "Content",
+      "url": "docs"
+    },
+    {
       "name": "Music",
-      "url": "/docs/music"
+      "url": "music"
     }
   ],
   "anchors": [
