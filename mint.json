@@ -54,20 +54,72 @@
       "pages": [
         "docs/welcome/about",
         "docs/welcome/music",
-        "docs/welcome/life",
         "docs/welcome/work"
       ]
     },
     {
-      "group": "Projects",
+      "group": "Entrepreneurship",
       "pages": [
-        "docs/projects/medchat"
+        "docs/entrepreneurship/objective",
+        "docs/entrepreneurship/saas"
+      ]
+    },
+    {
+      "group": "ML & AI",
+      "pages": [
+        "docs/ml-ai/comfy-ui",
+        "docs/ml-ai/hopekeeper",
+        "docs/ml-ai/multimodal-voice-assistant",
+        "docs/ml-ai/snake",
+        "docs/ml-ai/ring-pong",
+        "docs/ml-ai/moonlight-sorting",
+        "docs/ml-ai/law-gpt",
+        "docs/ml-ai/medchat",
+        "docs/ml-ai/song-writer"
+      ]
+    },
+    {
+      "group": "Virtual Reality",
+      "pages": [
+        "docs/virtual-reality/midi-saber"
+      ]
+    },
+    {
+      "group": "Cybersecurity",
+      "pages": [
+        "docs/cybersecurity/facebook-scrape"
+      ]
+    },
+    {
+      "group": "Blockchain",
+      "pages": [
+        "docs/blockchain/dns",
+        "docs/blockchain/in-game-payments"
+      ]
+    },
+    {
+      "group": "Music Production",
+      "pages": [
+        "docs/music-production/custom-plugin"
+      ]
+    },
+    {
+      "group": "Video Production",
+      "pages": [
+        "docs/video-production/quaranteen"
+      ]
+    },
+    {
+      "group": "Miscellaneous",
+      "pages": [
+        "docs/misc/drone-show"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "github": "https://github.com/while-basic",
+    "linkedin": "https://linkedin.com/in/christophercelaya",
+    "instagram": "https://instagram.com/chriscelaya",
+    "youtube": "https://www.youtube.com/@christophercelaya"
   }
 }
