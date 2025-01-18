@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Christopher Celaya",
   "logo": {
     "dark": "/assets/logo/dark.svg",
     "light": "/assets/logo/light.svg"
@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact",
+      "url": "mailto:chris@chriscelaya.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Portfolio",
+    "url": "https://chriscelaya.com"
   },
   "tabs": [
     {
@@ -33,53 +33,35 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": "https://instagram.com/chriscelaya"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Github",
+      "icon": "github",
+      "url": "https://github.com/while-basic"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "YouTube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@christophercelaya"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Welcome",
       "pages": [
-        "docs/getting-started/introduction",
-        "docs/getting-started/quickstart",
-        "docs/getting-started/development"
+        "docs/welcome/about",
+        "docs/welcome/music",
+        "docs/welcome/life",
+        "docs/welcome/work"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Projects",
       "pages": [
-        "docs/essentials/markdown",
-        "docs/essentials/code",
-        "docs/essentials/images",
-        "docs/essentials/settings",
-        "docs/essentials/navigation",
-        "docs/essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "docs/api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "docs/api-reference/endpoint/get",
-        "docs/api-reference/endpoint/create",
-        "docs/api-reference/endpoint/delete"
+        "docs/projects/medchat"
       ]
     }
   ],
