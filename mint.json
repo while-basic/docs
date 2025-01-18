@@ -27,15 +27,15 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Music",
+      "url": "/docs/music"
     }
   ],
   "anchors": [
     {
-      "name": "Instagram",
-      "icon": "instagram",
-      "url": "https://instagram.com/chriscelaya"
+      "name": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://linkedin.com/in/christophercelaya"
     },
     {
       "name": "Github",
@@ -43,10 +43,16 @@
       "url": "https://github.com/while-basic"
     },
     {
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": "https://instagram.com/chriscelaya"
+    },
+    {
       "name": "YouTube",
       "icon": "youtube",
       "url": "https://www.youtube.com/@christophercelaya"
     }
+    
   ],
   "navigation": [
     {
@@ -61,7 +67,9 @@
       "group": "Entrepreneurship",
       "pages": [
         "docs/entrepreneurship/objective",
-        "docs/entrepreneurship/saas"
+        "docs/entrepreneurship/saas",
+        "docs/entrepreneurship/ai-interviewer",
+        "docs/entrepreneurship/e-commerce"
       ]
     },
     {
